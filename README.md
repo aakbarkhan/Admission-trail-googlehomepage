@@ -1,12 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio: mobile version
+# Google page clone
 
-> This project is Portfolio mobile version.
+> The project is about cloning the google main page.
 
-![screenshot](./mobile-portfolio.png)
+![screenshot](./googlepage.png)
 
-The toolbar contains logo and menu. The headline section is an introduction about the person.
 
 ## Built With
 
@@ -33,8 +32,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- My coding partners
-- Standup teams
+- N/A
+- N/A
 
 
 ## 📝 License
